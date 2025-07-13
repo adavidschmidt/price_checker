@@ -1,0 +1,1 @@
+stores = ['Target', 'Walmart', 'Publix', 'Costco', 'Wegmans']
